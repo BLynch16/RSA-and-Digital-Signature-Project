@@ -25,16 +25,16 @@ Implemented RSA encryption and applied it to digital signature. This project was
 
 ## How to Run
 1. Clone this repository:
-'''bash
+```bash
 git clone https://github.com/BLynch16/RSA-and-Digital-signature-Project.git
 cd RSA-and-Digital-signature-Project
-'''
+```
 
-2. Launch Jupyter:
-'''bash
+3. Launch Jupyter:
+```bash
 jupyter notebook
-'''
+```
 
-3. Open 'Algorithms_Project1.ipynb' and run the cells in order.
+4. Open 'Algorithms_Project1.ipynb' and run the cells in order.
 
 
