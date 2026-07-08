@@ -18,7 +18,7 @@ Implemented RSA encryption and applied it to digital signature. This project was
     - Sign/"decrypt" this hash value using the private key stored in d_n.txt.
     - Combine the original content and the signature into one document.
     - Append the 64-byte signature at the end of the original content.
-  - **Verify the signed file
+  - **Verify the signed file**
     - Separate the signature from the content of the file in the signed document.
     - Generate a SHA-256 hash of the content of the file you have signed.
     - Check if the signature (old hashcode/m) = new SHA-256 hashcode/m.
