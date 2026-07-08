@@ -21,7 +21,7 @@ Implemented RSA encryption and applied it to digital signature. This project was
   - **Verify the signed file**
     - Separate the signature from the content of the file in the signed document.
     - Generate a SHA-256 hash of the content of the file you have signed.
-    - Check if the signature (old hashcode/m) = new SHA-256 hashcode/m.
+    - Check if the hash inside the signature matches the hash you just computed from the message.
 
 ## How to Run
 1. Clone this repository:
