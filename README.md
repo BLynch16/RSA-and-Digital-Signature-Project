@@ -35,6 +35,6 @@ cd RSA-and-Digital-signature-Project
 jupyter notebook
 ```
 
-4. Open 'Algorithms_Project1.ipynb' and run the cells in order.
+4. Open `Algorithms_Project1.ipynb` and run the cells in order.
 
 
