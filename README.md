@@ -22,3 +22,19 @@ Implemented RSA encryption and applied it to digital signature. This project was
     - Separate the signature from the content of the file in the signed document.
     - Generate a SHA-256 hash of the content of the file you have signed.
     - Check if the signature (old hashcode/m) = new SHA-256 hashcode/m.
+
+## How to Run
+1. Clone this repository:
+'''bash
+git clone https://github.com/BLynch16/RSA-and-Digital-signature-Project.git
+cd RSA-and-Digital-signature-Project
+'''
+
+2. Launch Jupyter:
+'''bash
+jupyter notebook
+'''
+
+3. Open 'Algorithms_Project1.ipynb' and run the cells in order.
+
+
