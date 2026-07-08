@@ -30,11 +30,11 @@ git clone https://github.com/BLynch16/RSA-and-Digital-signature-Project.git
 cd RSA-and-Digital-signature-Project
 ```
 
-3. Launch Jupyter:
+2. Launch Jupyter:
 ```bash
 jupyter notebook
 ```
 
-4. Open `Algorithms_Project1.ipynb` and run the cells in order.
+3. Open `Algorithms_Project1.ipynb` and run the cells in order.
 
 
