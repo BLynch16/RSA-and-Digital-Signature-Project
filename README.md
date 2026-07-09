@@ -25,5 +25,5 @@ Implemented **RSA encryption** and applied it to **digital signatures** in Jupyt
     - Check if the hash inside the signature matches the hash you just computed from the message.
 
 ## Code Availability
-The full implementation for this academic project has been removed from the public repository to prevent academic misuse by future 
+The full implementation for this academic project has been removed from the public repository to prevent misuse by future 
 students. Employers or reviewers may request access to the complete code.
