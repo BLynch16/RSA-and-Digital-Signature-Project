@@ -9,14 +9,14 @@ Implemented **RSA encryption** and applied it to **digital signatures**. This pr
 **Part 1: RSA key generation.**
   - Implement Fermat test.
   - Use Fermat's test to generate two large prime numbers (p,q), each should have a size between 128 and 256 bits.
-  - Save p and q in a file named p_q.txt, one integer per line and make sure no white space saved.
+  - Save p and q in a file named `p_q.txt`, one integer per line and make sure no white space saved.
   - Use the extended Euclidean algorithm to generate two pairs of keys: (e,n), (d,n), where n = p * q.
-  - Save the two pairs of keys in two separate files: e_n.txt and d_n.txt, one integer per line and no white space.
+  - Save the two pairs of keys in two separate files: `e_n.txt` and `d_n.txt`, one integer per line and no white space.
 
 **Part 2: Generate and verify digital signatures using a SHA-256 hash.**
   - **Sign a given file**
     - Generate a SHA-256 hash of the content of the file to be signed.
-    - Sign/"decrypt" this hash value using the private key stored in d_n.txt.
+    - Sign/"decrypt" this hash value using the private key stored in `d_n.txt`.
     - Combine the original content and the signature into one document.
     - Append the 64-byte signature at the end of the original content.
   - **Verify the signed file**
