@@ -1,7 +1,7 @@
 # RSA-and-Digital-signature-Project
 
 ## Overview
-Implemented **RSA encryption** and applied it to **digital signatures**. This project was divided into two parts: 
+Implemented **RSA encryption** and applied it to **digital signatures**. This project is divided into two parts: 
 1. RSA key generation.
 2. Generating and verifying digital signatures using a SHA-256 hash.
 
