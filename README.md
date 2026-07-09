@@ -24,18 +24,6 @@ Implemented **RSA encryption** and applied it to **digital signatures** in Jupyt
     - Generate a SHA-256 hash of the content of the file you have signed.
     - Check if the hash inside the signature matches the hash you just computed from the message.
 
-## How to Run
-1. Clone this repository:
-```bash
-git clone https://github.com/BLynch16/RSA-and-Digital-signature-Project.git
-cd RSA-and-Digital-signature-Project
-```
-
-2. Launch Jupyter:
-```bash
-jupyter notebook
-```
-
-3. Open `Algorithms_Project1.ipynb` and run the cells in order.
-
-
+## Code Availability
+The full implementation for this academic project has been removed from the public repository to prevent academic misuse by future 
+students. Employers or reviewers may request access to the complete code.
